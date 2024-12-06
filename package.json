@@ -1,0 +1,21 @@
+{
+  "name": "nacha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "ach-node-sdk": "^1.9.0",
+    "nach2": "^0.5.1",
+    "ts-node": "^10.9.2",
+    "async": "^2.0.1",
+    "lodash": "^4.14.1",
+    "moment": "^2.14.1"
+  }
+}
